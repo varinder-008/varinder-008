@@ -1,7 +1,5 @@
 <h1 align="center">Hi there , 👋 my name is Varinderpreet Singh</h1>
 <h3 align="center">I am a COE grad and a passionate frontend developer from India!</h3>
-<img align="right" alt="Coding" width="400" src="designer.jpg">
-- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **collaborate on Web Development Projects implementing React.**
 
