@@ -1,19 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Varinderpreet Singh's Profile</title>
-  <style>
-    .main-box {
-      border: 2px solid #ccc;
-      border-radius: 10px;
-      padding: 20px;
-      margin: 20px auto;
-      max-width: 600px;
-    }
-  </style>
-</head>
+
+
 <body>
   <div class="main-box">
     <h1 align="center">Hi there, 👋 my name is Varinderpreet Singh</h1>
