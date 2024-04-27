@@ -5,13 +5,12 @@
     <h1 align="center">Hi there, 👋 my name is Varinderpreet Singh</h1>
     <h3 align="center">I am a COE grad and a passionate frontend developer from India!</h3>
 
-    <ul>
-      <li>👯 I’m looking to collaborate on <strong>Web Development Projects implementing React.</strong></li>
-      <li>🤝 I’m looking for help with <strong>DSA.</strong></li>
-      <li>📫 How to reach me <strong>varetsingh88@gmail.com</strong></li>
-      <li>📄 Know about my experiences <a href="bit.ly/varinder_resumee">bit.ly/varinder_resumee</a></li>
-      <li>⚡ Fun fact <strong>I can whistle to songs quite impressively 🤪</strong></li>
-    </ul>
+      👯 I’m looking to collaborate on <strong>Web Development Projects implementing React.</strong>
+      🤝 I’m looking for help with <strong>DSA.</strong>
+      📫 How to reach me <strong>varetsingh88@gmail.com</strong>
+      📄 Know about my experiences <a href="bit.ly/varinder_resumee">bit.ly/varinder_resumee</a>
+      ⚡ Fun fact <strong>I can whistle to songs quite impressively 🤪</strong>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varinderpreet-singh-579a03221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varinderpreet-singh-579a03221/" height="30" width="40" /></a>
