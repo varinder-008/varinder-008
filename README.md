@@ -8,7 +8,7 @@
       👯 I’m looking to collaborate on Web Development Projects implementing React.
       🤝 I’m looking for help with DSA.
       📫 How to reach me <strong>varetsingh88@gmail.com
-      📄 Know about my experiences <a href="bit.ly/varinder_resumee">bit.ly/varinder_resumee</a>
+      📄 Know about my experiences bit.ly/varinder_resumee
       ⚡ Fun fact I can whistle to songs quite impressively 🤪
 
 <h3 align="left">Connect with me:</h3>
