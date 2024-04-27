@@ -1,16 +1,31 @@
-<h1 align="center">Hi there , 👋 my name is Varinderpreet Singh</h1>
-<h3 align="center">I am a COE grad and a passionate frontend developer from India!</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Varinderpreet Singh's Profile</title>
+  <style>
+    .main-box {
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 20px auto;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <div class="main-box">
+    <h1 align="center">Hi there, 👋 my name is Varinderpreet Singh</h1>
+    <h3 align="center">I am a COE grad and a passionate frontend developer from India!</h3>
 
-- 👯 I’m looking to collaborate on **collaborate on Web Development Projects implementing React.**
-
-- 🤝 I’m looking for help with **DSA.**
-
-- 📫 How to reach me **varetsingh88@gmail.com**
-
-- 📄 Know about my experiences [bit.ly/varinder_resumee](bit.ly/varinder_resumee)
-
-- ⚡ Fun fact **I can whistle to songs quite impressively 🤪**
-
+    <ul>
+      <li>👯 I’m looking to collaborate on <strong>Web Development Projects implementing React.</strong></li>
+      <li>🤝 I’m looking for help with <strong>DSA.</strong></li>
+      <li>📫 How to reach me <strong>varetsingh88@gmail.com</strong></li>
+      <li>📄 Know about my experiences <a href="bit.ly/varinder_resumee">bit.ly/varinder_resumee</a></li>
+      <li>⚡ Fun fact <strong>I can whistle to songs quite impressively 🤪</strong></li>
+    </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varinderpreet-singh-579a03221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varinderpreet-singh-579a03221/" height="30" width="40" /></a>
