@@ -5,11 +5,11 @@
     <h1 align="center">Hi there, 👋 my name is Varinderpreet Singh</h1>
     <h3 align="center">I am a COE grad and a passionate frontend developer from India!</h3>
 
-      👯 I’m looking to collaborate on <strong>Web Development Projects implementing React.</strong>
-      🤝 I’m looking for help with <strong>DSA.</strong>
-      📫 How to reach me <strong>varetsingh88@gmail.com</strong>
+      👯 I’m looking to collaborate on Web Development Projects implementing React.
+      🤝 I’m looking for help with DSA.
+      📫 How to reach me <strong>varetsingh88@gmail.com
       📄 Know about my experiences <a href="bit.ly/varinder_resumee">bit.ly/varinder_resumee</a>
-      ⚡ Fun fact <strong>I can whistle to songs quite impressively 🤪</strong>
+      ⚡ Fun fact I can whistle to songs quite impressively 🤪
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
